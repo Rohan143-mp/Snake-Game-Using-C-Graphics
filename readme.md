@@ -37,7 +37,6 @@ To run this project, make sure you have the following:
 - Libraries:
   - `graphics.h`
   - `dos.h` or `windows.h` (for `GetAsyncKeyState`)
-
 ---
 
 ## 🚀 How to Run
