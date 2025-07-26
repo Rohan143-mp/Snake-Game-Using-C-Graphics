@@ -59,7 +59,8 @@ else if((GetAsyncKeyState(VK_DOWN))&&(d!=1))
 d=3;
 if(getpixel(X[0],Y[0])==2)
 {
-rx=s; ry=s;
+rx=s; ry=s:
+  
 setfillstyle(1,2);
 while(getpixel(rx,ry)!=0)
 {
