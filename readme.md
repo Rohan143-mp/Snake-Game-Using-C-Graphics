@@ -2,6 +2,7 @@
 
 This is a simple **Snake Game** developed in C using the `graphics.h` library. The game runs in a graphical environment, where the player controls a snake that grows in length by consuming food and must avoid hitting the walls or itself.
 
+
 ---
 
 ## 🎮 Gameplay Overview
